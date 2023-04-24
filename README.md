@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulsingh3526
-- 👀 I’m interested in doing web3 developer
+- 👀 I’m a web3 developer
 - 🌱 I’m frontend dev with React/nextjs tailwind wagmi integration knowledge
 - 💞️ I’m looking for a freelance/job role.
 - 📫 How to reach me  you can message me on twitter at @rahul3526
