@@ -4,10 +4,6 @@
 - 💞️ Currently working
 - 📫 How to reach me  you can message me on twitter at @rahul3526
 
-# Youtube channel link
-
-
-[youtube channel](https://www.youtube.com/channel/UC9lsl35cIXRo824gj5wOP3g)
 
 # Hashnode blog link
 
